@@ -1,0 +1,7 @@
+pytest
+request
+pydantic
+typing
+re
+uvicorn
+fastapi
