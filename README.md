@@ -5,7 +5,8 @@ Essa é uma API que recebe dados pessoais, os valida e retorna uma nota represen
 URL da API: http://127.0.0.1:8000/validacao
 
 Exemplo de JSON esperado pela API:
-  {
+  ```
+{
 	"id": "2bdd41da-0875-4451-920a-e6c73f2b5b3",
 	"cpf": "000.000.000-00",
 	"nome_cliente": "Isabelle Bandeira",
@@ -22,6 +23,7 @@ Exemplo de JSON esperado pela API:
 	},
 	"nome_mae": "Ciclana Da Silva"
 }
+```
 
 DOC da API: http://127.0.0.1:8000/docs
 
