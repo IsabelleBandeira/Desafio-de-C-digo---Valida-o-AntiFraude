@@ -25,6 +25,17 @@ Exemplo de JSON esperado pela API:
 }
 ```
 
+Exemplo de JSON retornada pela API:
+```
+{
+	"id_validacao": "b2ef290f-08d9-422b-bb2c-932930af918f",
+	"data_hora": "2025-03-05 20:58:24.530166",
+	"id_cliente": "2bdd41da-0875-4451-920a-e6c73f2b5b3",
+	"grau_confiabilidade": "2",
+	"detalhes": "Cliente validado com sucesso!"
+}
+```
+
 DOC da API: http://127.0.0.1:8000/docs
 
 ---------------------------------------------
