@@ -43,8 +43,8 @@ DOC da API: http://127.0.0.1:8000/docs
 Essa solução usa Python3.11, um servidor uvicorn e o framework FastAPI para rodar.
 
 Além dessas, algumas bibliotecas usadas foram:
-pytest
-request
-pydantic
-typing
-re
+- pytest
+- request
+- pydantic
+- typing
+- re
